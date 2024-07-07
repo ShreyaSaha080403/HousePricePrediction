@@ -1,0 +1,12 @@
+carpetArea in sq-ft
+powerStatus - One hot encode
+furnishedD - One hot encode
+bathD - numeric
+propTypeD - One hot encode
+transactionTypeD - One hot encode
+waterStatus - One hot encode
+isPrimeLocProp - One hot encode
+amenitiesCount - from amenities inputted
+floorNo - numeric
+floors - numeric
+floorRatio -  floorNo / floors

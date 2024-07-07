@@ -1,0 +1,1093 @@
+,price,powerStatusD,furnishedD,bathD,transactionTypeD,propTypeD,bedroomD,waterStatus,isPrimeLocProp,floorNo,floors,amenitiesCount,floorRatio
+0,46500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 1 Hour Available,Y,5.0,7.0,13.0,0.7142857142857143
+1,19500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,29.0,11.0,0.20689655172413793
+2,19500000,No/Rare Powercut,Semi-Furnished,5,New Property,Apartment,3,Water Availability 24 Hours Available,Y,34.0,75.0,32.0,0.4533333333333333
+3,17500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,5.0,10.0,0.6
+4,8000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,7.0,7.0,7.0,1.0
+5,21000000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,18.0,48.0,0.2777777777777778
+6,9975000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+7,28000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+8,14000000,No/Rare Powercut,Furnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+9,14800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,4,Water Availability 24 Hours Available,N,3.0,3.0,4.0,1.0
+10,10000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,18.0,22.0,19.0,0.8181818181818182
+11,45000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,22.0,20.0,0.09090909090909091
+12,21500000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,2.0,12.0,8.0,0.16666666666666666
+13,22500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,14.0,20.0,14.0,0.7
+14,14500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,18.0,32.0,8.0,0.5625
+15,15000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,3.0,4.0,1.0
+16,9000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,18.0,5.0,0.16666666666666666
+17,12500000,No/Rare Powercut,Furnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,8.0,0.7142857142857143
+18,15900000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,10.0,43.0,18.0,0.23255813953488372
+19,25000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,20.0,14.0,0.15
+20,16800000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,3.0,40.0,22.0,0.075
+21,36500000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,34.0,38.0,18.0,0.8947368421052632
+22,84200000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.0,12.0,10.0,0.75
+23,62500000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,15.0,26.0,0.5333333333333333
+24,62000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 2 Hours Available,Y,5.0,9.0,12.0,0.5555555555555556
+25,61000000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,3,Water Availability 24 Hours Available,Y,19.0,58.0,31.0,0.3275862068965517
+26,70000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,2.0,11.0,11.0,0.18181818181818182
+27,8500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,30.0,0.49096401229102654
+28,7800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,8.0,15.0,0.5
+29,17400000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,18.0,35.0,21.0,0.5142857142857142
+30,7000000,No/Rare Powercut,Semi-Furnished,3,Resale,Residential House,3,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,7.0,0.49096401229102654
+31,9600000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,7.0,11.0,0.14285714285714285
+32,4500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,23.0,14.0,0.2608695652173913
+33,32100000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,2.0,11.0,10.0,0.18181818181818182
+34,10000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,36.0,19.0,0.2777777777777778
+35,19700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,14.0,39.0,29.0,0.358974358974359
+36,23500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,5,Water Availability 24 Hours Available,Y,0.0,6.0,15.0,0.0
+37,9000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,29.0,6.0,0.10344827586206896
+38,11500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,6.0,0.49096401229102654
+39,19000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,9.0,5.0,0.6666666666666666
+40,12500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+41,16000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,12.0,11.0,0.6666666666666666
+42,20000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,8.0,3.0,0.375
+43,12000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,23.0,15.0,0.6521739130434783
+44,24250000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,7.0,5.0,0.14285714285714285
+45,16000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,10.0,18.0,21.0,0.5555555555555556
+46,24700000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+47,25000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,0.0,4.0,6.0,0.0
+48,9000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,3.0,5.0,0.6666666666666666
+49,16500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,4.0,14.444773175542407,0.5
+50,43000000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,N,3.0,7.0,15.0,0.42857142857142855
+51,12927000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,43.0,67.0,13.0,0.6417910447761194
+52,39900000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,29.0,29.0,0.10344827586206896
+53,12500000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,11.0,11.0,0.09090909090909091
+54,12500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,7.0,8.0,1.0
+55,14000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,8.0,25.0,0.25
+56,14500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,22.0,23.0,17.0,0.9565217391304348
+57,32000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,9.0,6.0,0.5555555555555556
+58,23500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.0,16.0,23.0,0.5625
+59,8228000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,11.0,22.0,26.0,0.5
+60,24000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,45.0,11.0,0.2222222222222222
+61,8000000,No/Rare Powercut,Semi-Furnished,3,Resale,Villa,4,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,4.0,0.49096401229102654
+62,13800000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,22.0,29.0,0.5454545454545454
+63,71600000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,5.0,30.0,27.0,0.16666666666666666
+64,34240000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,25.0,32.0,26.0,0.78125
+65,11000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,18.0,22.0,18.0,0.8181818181818182
+66,14800000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,27.0,48.0,17.0,0.5625
+67,11000000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,1.0,3.0,4.0,0.3333333333333333
+68,52500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,6.0,16.0,0.16666666666666666
+69,9200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,8.0,7.0,0.75
+70,15000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,18.0,56.0,29.0,0.32142857142857145
+71,20000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,9.0,40.0,7.0,0.225
+72,10500000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,13.0,18.0,6.0,0.7222222222222222
+73,11500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 12 Hours Available,Y,3.0,7.0,14.444773175542407,0.42857142857142855
+74,11700000,No/Rare Powercut,Semi-Furnished,1,Resale,Builder Floor Apartment,1,Water Availability 24 Hours Available,N,3.0,4.0,7.0,0.75
+75,15000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,20.0,8.0,0.05
+76,32906000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,36.0,45.0,15.0,0.8
+77,27500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,38.0,43.0,8.0,0.8837209302325582
+78,15000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,14.0,19.0,9.0,0.7368421052631579
+79,56400000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,22.0,40.0,41.0,0.55
+80,17000000,No/Rare Powercut,Semi-Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,N,2.0,5.0,13.0,0.4
+81,31500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,16.0,18.0,8.0,0.8888888888888888
+82,9700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,11.0,21.0,12.0,0.5238095238095238
+83,21000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,16.0,20.0,0.75
+84,9999000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,12.0,7.0,0.16666666666666666
+85,18000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,9.0,3.0,0.5555555555555556
+86,14500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,7.0,7.0,0.14285714285714285
+87,11000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,12.0,12.0,0.16666666666666666
+88,27500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,8.0,14.0,0.875
+89,16900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 12 Hours Available,N,0.0,8.0,7.0,0.0
+90,4900000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,8.0,23.0,16.0,0.34782608695652173
+91,7952700,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,16.0,19.0,0.3125
+92,7600000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,23.0,23.0,11.0,1.0
+93,11800000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,0.0,4.0,14.444773175542407,0.0
+94,2300000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,8.0,13.0,0.5
+95,6900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,22.0,7.0,0.4090909090909091
+96,10000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,6.0,7.0,14.444773175542407,0.8571428571428571
+97,7100000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,7.0,8.0,1.0
+98,13000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,7.0,14.444773175542407,0.42857142857142855
+99,81000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,6.0,14.0,19.0,0.42857142857142855
+100,350000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,6.0,6.0,0.3333333333333333
+101,34000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,16.0,13.0,0.1875
+102,80000000,No/Rare Powercut,Furnished,2,Resale,Villa,2,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,12.0,0.49096401229102654
+103,28000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,12.0,8.0,0.25
+104,13500000,No/Rare Powercut,Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,16.0,19.0,8.0,0.8421052631578947
+105,19000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,4.0,6.0,0.25
+106,42500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,20.0,30.0,0.25
+107,8600000,No/Rare Powercut,Semi-Furnished,5,Resale,Penthouse,4,Water Availability 24 Hours Available,Y,13.0,14.0,24.0,0.9285714285714286
+108,47500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,31.0,77.0,9.0,0.4025974025974026
+109,13000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,5.0,11.0,0.6
+110,69900000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,23.0,35.0,40.0,0.6571428571428571
+111,160000000,No/Rare Powercut,Furnished,8,Resale,Apartment,8,Water Availability 24 Hours Available,Y,11.0,15.0,12.0,0.7333333333333333
+112,90000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,25.0,30.0,28.0,0.8333333333333334
+113,65000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,12.0,5.0,0.5833333333333334
+114,79900000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,10.0,12.0,0.3
+115,32500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,7.0,7.0,0.14285714285714285
+116,18000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,5.0,7.0,0.4
+117,28500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+118,32500000,No/Rare Powercut,Semi-Furnished,1,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,N,6.0,6.0,6.0,1.0
+119,10500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,29.0,23.0,0.13793103448275862
+120,18500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,6.0,10.0,0.5
+121,11000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,14.0,12.0,0.35714285714285715
+122,27500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,22.0,11.0,0.45454545454545453
+123,15400000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,10.0,12.0,26.0,0.8333333333333334
+124,50000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,7.0,3.0,0.2857142857142857
+125,8500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,N,2.0,3.0,14.444773175542407,0.6666666666666666
+126,19800000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,12.0,7.0,0.3333333333333333
+127,8800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,7.0,11.0,0.42857142857142855
+128,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,7.0,3.0,0.7142857142857143
+129,9000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,35.0,11.0,0.14285714285714285
+130,20000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,7.0,5.0,0.8571428571428571
+131,14000000,No/Rare Powercut,Furnished,2,Rent,Apartment,3,Water Availability 24 Hours Available,Y,9.0,11.0,15.0,0.8181818181818182
+132,9500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,52.0,0.49096401229102654
+133,62400000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,2.0,46.0,8.0,0.043478260869565216
+134,28500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,24.0,33.0,19.0,0.7272727272727273
+135,18500000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,4.0,11.0,0.75
+136,12500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+137,49500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,15.0,12.0,0.5333333333333333
+138,18000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,28.0,36.0,11.0,0.7777777777777778
+139,30000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,4.0,8.0,11.0,0.5
+140,32600000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,10.0,20.0,18.0,0.5
+141,100000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,7.0,6.0,0.42857142857142855
+142,14000000,No/Rare Powercut,Semi-Furnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,42.0,18.0,0.11904761904761904
+143,37500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,7.0,2.0,0.42857142857142855
+144,35100000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,2,Water Availability 1 Hour Available,N,4.0,4.0,14.444773175542407,1.0
+145,18000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,3.0,14.444773175542407,0.6666666666666666
+146,7800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,19.0,0.49096401229102654
+147,4600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,16.0,19.0,12.0,0.8421052631578947
+148,5600000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,16.0,7.0,0.125
+149,16000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,14.0,22.0,11.0,0.6363636363636364
+150,56500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,12.0,16.0,13.0,0.75
+151,30000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,15.0,10.0,0.4666666666666667
+152,18000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,5.0,7.0,13.0,0.7142857142857143
+153,20000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,0.0,7.0,5.0,0.0
+154,10000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,40.0,14.444773175542407,0.2
+155,7700000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,15.0,15.0,16.0,1.0
+156,16000000,No/Rare Powercut,Unfurnished,4,New Property,Residential House,4,Water Availability 24 Hours Available,N,3.0,15.0,21.0,0.2
+157,22500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+158,40000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,7.0,4.0,0.5714285714285714
+159,16000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,7.0,9.0,0.5714285714285714
+160,5000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,8.0,8.0,11.0,1.0
+161,4700000,No/Rare Powercut,Furnished,4,Resale,Builder Floor Apartment,3,Water Availability 24 Hours Available,N,4.0,5.0,4.0,0.8
+162,12500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,11.0,16.0,14.444773175542407,0.6875
+163,11000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,7.0,2.0,0.8571428571428571
+164,16500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,6.0,14.444773175542407,0.8333333333333334
+165,20000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,10.0,6.0,0.6
+166,9000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,16.0,27.0,22.0,0.5925925925925926
+167,16500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,3.0,6.0,1.0
+168,8000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,Y,2.0,4.0,14.444773175542407,0.5
+169,31000000,No/Rare Powercut,Unfurnished,1,New Property,Residential House,1,Water Availability 24 Hours Available,Y,4.0,4.0,14.444773175542407,1.0
+170,13900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,9.0,7.0,0.5555555555555556
+171,16000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,7.0,5.0,0.14285714285714285
+172,67500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,20.0,20.0,0.35
+173,6500000,No/Rare Powercut,Unfurnished,1,New Property,Builder Floor Apartment,1,Water Availability 24 Hours Available,N,3.0,4.0,2.0,0.75
+174,12500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,14.0,14.0,8.0,1.0
+175,9500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,12.0,0.7142857142857143
+176,18000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,18.0,28.0,22.0,0.6428571428571429
+177,11000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,1.0,6.0,11.0,0.16666666666666666
+178,17800000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,12.0,2.0,0.4166666666666667
+179,15000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,16.0,17.0,15.0,0.9411764705882353
+180,21000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,N,0.0,4.0,4.0,0.0
+181,15500000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,12.0,13.0,0.5833333333333334
+182,31100000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,8.0,14.444773175542407,0.25
+183,36500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.0,15.0,10.0,0.6
+184,36000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,7.0,7.0,17.0,1.0
+185,21000000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.0,14.0,12.0,0.6428571428571429
+186,20100000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,21.0,0.49096401229102654
+187,58500000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,9.0,13.0,35.0,0.6923076923076923
+188,60000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,3.0,10.0,0.6666666666666666
+189,15500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,12.0,12.0,0.8333333333333334
+190,16000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,2.0,14.444773175542407,1.0
+191,17500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,7.0,8.0,0.7142857142857143
+192,23000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,35.0,26.0,0.2
+193,27500000,No/Rare Powercut,Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,23.0,18.0,0.21739130434782608
+194,16500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,4,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+195,45000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,11.0,6.0,0.6363636363636364
+196,17800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 2 Hours Available,Y,2.0,7.0,26.0,0.2857142857142857
+197,19500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,10.0,13.0,0.1
+198,13000000,No/Rare Powercut,Unfurnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,N,0.0,1.0,2.0,0.0
+199,14500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,7.0,9.0,0.0
+200,12800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,12.0,17.0,2.0,0.7058823529411765
+201,30000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,1.0,4.0,14.444773175542407,0.25
+202,10000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,12.0,19.0,18.0,0.631578947368421
+203,9500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,22.0,30.0,22.0,0.7333333333333333
+204,20000000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,40.0,78.0,34.0,0.5128205128205128
+205,21500000,No/Rare Powercut,Unfurnished,2,New Property,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,-2.0,3.0,17.0,-0.6666666666666666
+206,17900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,25.0,26.0,0.4
+207,29000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,25.0,44.0,39.0,0.5681818181818182
+208,17600000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,20.0,10.0,0.5
+209,3440000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,25.0,40.0,16.0,0.625
+210,14900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,23.0,24.0,0.21739130434782608
+211,12100000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,12.0,25.0,0.25
+212,22500000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,12.0,35.0,15.0,0.34285714285714286
+213,37000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,7.0,10.0,0.42857142857142855
+214,41000000,No/Rare Powercut,Semi-Furnished,4,Resale,Residential House,5,Water Availability 24 Hours Available,N,0.0,2.0,12.0,0.0
+215,18000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,13.0,20.0,18.0,0.65
+216,35000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,14.0,15.0,2.0,0.9333333333333333
+217,58000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,3.0,5.0,0.6666666666666666
+218,25000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,15.0,20.0,0.06666666666666667
+219,12200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,12.0,47.0,21.0,0.2553191489361702
+220,8500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,17.0,11.0,0.4117647058823529
+221,13100000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,12.0,4.0,0.5833333333333334
+222,12400000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,14.0,35.0,0.8571428571428571
+223,32500000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,24.0,17.0,0.4166666666666667
+224,29600000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,19.0,7.0,0.2631578947368421
+225,35000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,36.0,22.0,0.3333333333333333
+226,31000000,No/Rare Powercut,Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,12.0,12.0,0.4166666666666667
+227,69000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,11.0,14.0,0.45454545454545453
+228,5000000,No/Rare Powercut,Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,2.0,5.0,14.444773175542407,0.4
+229,7500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,30.0,29.0,0.5333333333333333
+230,5900000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,38.0,67.0,23.0,0.5671641791044776
+231,5600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,7.0,12.0,0.8571428571428571
+232,29000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,18.0,9.0,0.2222222222222222
+233,22000000,No/Rare Powercut,Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,3.0,3.0,16.0,1.0
+234,3500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,24.0,40.0,11.0,0.6
+235,5300000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,11.0,15.0,12.0,0.7333333333333333
+236,3800000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,6.0,7.0,0.16666666666666666
+237,19000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+238,36000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,7.0,7.0,4.0,1.0
+239,28500000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,21.0,42.0,16.0,0.5
+240,19000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.0,14.0,18.0,0.6428571428571429
+241,13000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,11.0,22.0,0.6363636363636364
+242,25000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,3.0,9.0,1.0
+243,12900000,No/Rare Powercut,Semi-Furnished,2,Resale,Residential House,1,Water Availability 24 Hours Available,Y,0.0,1.0,4.0,0.0
+244,27600000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,24.0,0.49096401229102654
+245,14750000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,15.0,8.0,0.13333333333333333
+246,3600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,6.0,2.0,0.6666666666666666
+247,23400000,No/Rare Powercut,Furnished,3,Resale,Penthouse,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,18.0,0.49096401229102654
+248,24800000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,N,13.0,13.0,8.0,1.0
+249,22500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,23.0,12.0,0.13043478260869565
+250,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,-1.0,23.0,24.0,-0.043478260869565216
+251,21000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,8.0,3.0,0.625
+252,10500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,7.0,8.0,0.42857142857142855
+253,29000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,12.0,0.49096401229102654
+254,7800000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,4.0,7.0,12.0,0.5714285714285714
+255,16200000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,17.0,20.0,23.0,0.85
+256,21000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,7.0,6.0,0.5714285714285714
+257,6800000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,2.0,7.0,15.0,0.2857142857142857
+258,57500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,17.0,0.49096401229102654
+259,57000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,1.0,17.0,5.0,0.058823529411764705
+260,17300000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,31.0,32.0,25.0,0.96875
+261,18200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,8.0,22.0,11.0,0.36363636363636365
+262,17500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,-1.0,23.0,5.0,-0.043478260869565216
+263,15000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,17.0,15.0,0.4117647058823529
+264,20000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,33.0,41.0,18.0,0.8048780487804879
+265,27500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,7.0,7.0,0.14285714285714285
+266,24000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,10.0,19.0,0.2
+267,48000000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,3.0,15.0,24.0,0.2
+268,21000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,20.0,7.0,0.3
+269,27000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,4.0,14.444773175542407,0.75
+270,28000000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,7.0,11.0,1.0
+271,18500000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,7.0,16.0,1.0
+272,19000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,13.0,14.0,19.0,0.9285714285714286
+273,11000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,17.0,23.0,7.0,0.7391304347826086
+274,22500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,3.0,10.0,0.6666666666666666
+275,4000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,1.0,16.0,8.0,0.0625
+276,82500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,7.0,9.0,0.5714285714285714
+277,25000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,2.0,40.0,13.0,0.05
+278,6000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,15.0,22.0,13.0,0.6818181818181818
+279,7900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,4.0,11.0,5.0,0.36363636363636365
+280,8000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,6.0,13.0,0.5
+281,25000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,7.0,8.0,0.8571428571428571
+282,35000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,4.0,5.0,0.25
+283,24000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,22.0,12.0,0.3181818181818182
+284,11200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,22.0,19.0,0.45454545454545453
+285,23000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,12.0,0.49096401229102654
+286,26000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,3.0,6.0,0.6666666666666666
+287,5190000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,6.0,5.0,0.3333333333333333
+288,15500000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,4.0,11.0,4.0,0.36363636363636365
+289,30000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,6.0,7.0,14.444773175542407,0.8571428571428571
+290,9900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,27.0,54.0,19.0,0.5
+291,19000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,8.0,14.0,15.0,0.5714285714285714
+292,14200000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,22.0,13.0,0.4090909090909091
+293,6600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,11.0,24.0,12.0,0.4583333333333333
+294,7200000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,3.0,12.0,1.0
+295,11000000,No/Rare Powercut,Furnished,1,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,3.0,3.0,5.0,1.0
+296,18481500,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,11.0,45.0,20.0,0.24444444444444444
+297,85000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,15.0,21.0,0.6666666666666666
+298,15000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,14.0,15.0,9.0,0.9333333333333333
+299,14000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,20.0,52.0,0.35
+300,14000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,16.0,14.444773175542407,0.6875
+301,9000000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,N,12.0,12.0,8.0,1.0
+302,7900000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,23.0,54.0,21.0,0.42592592592592593
+303,9800000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,36.0,23.0,0.3055555555555556
+304,10200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,10.0,15.0,0.7
+305,17000000,No/Rare Powercut,Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,N,3.0,7.0,12.0,0.42857142857142855
+306,6500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,8.0,5.0,0.25
+307,13000000,Less Than 2 Hour Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,20.0,26.0,0.25
+308,17000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,17.0,19.0,11.0,0.8947368421052632
+309,11200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,3.0,0.49096401229102654
+310,50000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,20.0,24.0,0.05
+311,40000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,6.0,9.0,1.0
+312,16500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,14.0,4.0,0.5
+313,15000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,17.0,12.0,0.4117647058823529
+314,27500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,4.0,4.0,0.5
+315,27000000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,8.0,14.0,24.0,0.5714285714285714
+316,34500000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,15.0,24.0,27.0,0.625
+317,18700000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,24.0,16.0,0.4166666666666667
+318,15700000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,25.0,27.0,0.72
+319,25500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,8.0,10.0,1.0
+320,65000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,37.0,30.0,0.2702702702702703
+321,33000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,8.0,14.0,0.75
+322,14599838,No/Rare Powercut,Semi-Furnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,-2.0,4.0,17.0,-0.5
+323,32000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,7.0,15.0,0.8571428571428571
+324,98164600,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,9.0,5.0,0.5555555555555556
+325,30000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,1.0,9.0,10.0,0.1111111111111111
+326,17000000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,N,1.0,12.0,13.0,0.08333333333333333
+327,32000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,7.0,7.0,8.0,1.0
+328,100000000,No/Rare Powercut,Furnished,2,Resale,Residential House,1,Water Availability 24 Hours Available,N,4.0,4.0,5.0,1.0
+329,26294000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,26.0,0.49096401229102654
+330,31000000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,12.0,22.0,52.0,0.5454545454545454
+331,16000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,15.0,23.0,0.26666666666666666
+332,17000000,No/Rare Powercut,Furnished,2,Resale,Penthouse,2,Water Availability 24 Hours Available,N,7.0,7.0,6.0,1.0
+333,15500000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,10.0,11.0,0.4
+334,14500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,20.0,9.0,0.25
+335,18000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,8.0,17.0,0.375
+336,15500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,2.0,11.0,11.0,0.18181818181818182
+337,8200000,No/Rare Powercut,Unfurnished,1,Resale,Builder Floor Apartment,1,Water Availability 24 Hours Available,N,4.0,4.0,4.0,1.0
+338,15000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,25.0,31.0,7.0,0.8064516129032258
+339,11500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,2.0,3.0,14.444773175542407,0.6666666666666666
+340,9000000,No/Rare Powercut,Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,4.0,7.0,19.0,0.5714285714285714
+341,12000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 6 Hours Available,N,5.0,15.0,15.0,0.3333333333333333
+342,308000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,20.0,54.0,18.0,0.37037037037037035
+343,19900000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,13.0,30.0,20.0,0.43333333333333335
+344,19000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,25.0,55.0,28.0,0.45454545454545453
+345,210000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,20.0,23.0,9.0,0.8695652173913043
+346,15800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,8.0,10.0,0.625
+347,30000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,50.0,18.0,0.2
+348,120000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 12 Hours Available,N,2.0,7.0,3.0,0.2857142857142857
+349,17500000,No/Rare Powercut,Furnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,Y,3.0,4.0,8.0,0.75
+350,19900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,33.0,17.0,0.30303030303030304
+351,36000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 1 Hour Available,Y,19.0,23.0,14.0,0.8260869565217391
+352,18500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,24.0,25.0,0.625
+353,97500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,9.0,15.0,0.3333333333333333
+354,120000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,10.0,14.0,16.0,0.7142857142857143
+355,30000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,0.0,6.0,2.0,0.0
+356,16899440,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,10.0,4.0,0.5
+357,25500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,13.0,17.0,0.23076923076923078
+358,19700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,31.0,65.0,17.0,0.47692307692307695
+359,13900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,18.0,22.0,23.0,0.8181818181818182
+360,105000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,2.0,14.0,26.0,0.14285714285714285
+361,4800000,No/Rare Powercut,Semi-Furnished,4,Other,Apartment,3,Water Availability 24 Hours Available,Y,27.0,43.0,27.0,0.627906976744186
+362,8000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,18.0,8.0,0.3333333333333333
+363,10300000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,18.0,16.0,0.1111111111111111
+364,100000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+365,90000000,No/Rare Powercut,Unfurnished,10,Resale,Apartment,9,Water Availability 24 Hours Available,Y,48.0,48.0,28.0,1.0
+366,12500000,No/Rare Powercut,Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,N,4.0,4.0,6.0,1.0
+367,5737500,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.0,45.0,26.0,0.2
+368,10200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,23.0,33.0,26.0,0.696969696969697
+369,6600000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,24.0,25.0,21.0,0.96
+370,13000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,45.0,43.0,0.4
+371,15000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,27.0,45.0,24.0,0.6
+372,6000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,11.0,30.0,24.0,0.36666666666666664
+373,12100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,23.0,52.0,18.0,0.4423076923076923
+374,50000000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,8.0,21.0,5.0,0.38095238095238093
+375,21500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,4.0,8.0,0.5
+376,8700000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,11.0,13.0,11.0,0.8461538461538461
+377,9200000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,24.0,13.0,0.375
+378,42500000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,7.0,5.0,0.5714285714285714
+379,12500000,No/Rare Powercut,Furnished,3,Resale,Residential House,4,Water Availability 24 Hours Available,N,0.0,2.0,10.0,0.0
+380,2100000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,20.0,28.0,0.05
+381,7500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,30.0,11.0,0.1
+382,3100000,No/Rare Powercut,Furnished,3,Resale,Residential House,3,Water Availability 24 Hours Available,Y,2.0,8.0,11.0,0.25
+383,21000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,22.0,10.0,0.22727272727272727
+384,23700000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,36.0,90.0,36.0,0.4
+385,14000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,29.0,11.0,0.5517241379310345
+386,26500000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,4.0,10.0,3.0,0.4
+387,22000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,22.0,23.0,19.0,0.9565217391304348
+388,20000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,7.0,7.0,10.0,1.0
+389,39500000,No/Rare Powercut,Semi-Furnished,3,Resale,Builder Floor Apartment,3,Water Availability 24 Hours Available,N,3.0,4.0,14.444773175542407,0.75
+390,21000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,27.0,55.0,28.0,0.4909090909090909
+391,13000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,13.0,13.0,0.5384615384615384
+392,27000000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,9.0,29.0,13.0,0.3103448275862069
+393,55555555,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,7.0,7.0,0.7142857142857143
+394,22500000,No/Rare Powercut,Furnished,5,Resale,Villa,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,4.0,0.49096401229102654
+395,30000000,No/Rare Powercut,Furnished,3,Resale,Penthouse,4,Water Availability 24 Hours Available,Y,5.0,6.0,8.0,0.8333333333333334
+396,17800000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,17.0,22.0,9.0,0.7727272727272727
+397,7400000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,35.0,39.0,22.0,0.8974358974358975
+398,59000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,3.0,29.0,14.0,0.10344827586206896
+399,19500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,30.0,25.0,0.3333333333333333
+400,14500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,20.0,35.0,10.0,0.5714285714285714
+401,170000000,Less Than 2 Hour Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,30.0,60.0,24.0,0.5
+402,68600000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,25.0,39.0,14.0,0.6410256410256411
+403,28100000,No/Rare Powercut,Furnished,5,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,77.0,29.0,0.12987012987012986
+404,68000000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,8.0,16.0,27.0,0.5
+405,18000000,No/Rare Powercut,Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,26.0,16.0,0.38461538461538464
+406,12400000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,65.0,29.0,0.07692307692307693
+407,61000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,50.0,47.0,0.36
+408,9900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,21.0,22.0,0.23809523809523808
+409,24500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,24.0,21.0,0.20833333333333334
+410,19100000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,7.0,14.0,31.0,0.5
+411,35100000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,8.0,20.0,10.0,0.4
+412,7200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,4.0,7.0,8.0,0.5714285714285714
+413,105000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,17.0,7.0,0.4117647058823529
+414,24000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,12.0,21.0,15.0,0.5714285714285714
+415,20000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,0.0,3.0,3.0,0.0
+416,7211000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,9.0,12.0,3.0,0.75
+417,12000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,2.0,9.0,15.0,0.2222222222222222
+418,95000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,4.0,5.0,0.5
+419,12700000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,25.0,45.0,44.0,0.5555555555555556
+420,9800000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,30.0,11.0,0.1
+421,14000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,7.0,5.0,0.42857142857142855
+422,32981300,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,7.0,11.0,7.0,0.6363636363636364
+423,19999999,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,15.0,20.0,14.0,0.75
+424,36000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,13.0,16.0,9.0,0.8125
+425,46000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,67.0,25.0,0.14925373134328357
+426,24400000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,20.0,22.0,13.0,0.9090909090909091
+427,29500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,20.0,24.0,0.75
+428,47000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,23.0,36.0,18.0,0.6388888888888888
+429,40000000,No/Rare Powercut,Semi-Furnished,3,Resale,Villa,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+430,17000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,15.0,31.0,17.0,0.4838709677419355
+431,17000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,20.0,30.0,22.0,0.6666666666666666
+432,20700000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,4.0,7.0,2.0,0.5714285714285714
+433,42500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,3.0,5.0,1.0
+434,20500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,4.0,4.0,0.75
+435,21500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,10.0,16.0,11.0,0.625
+436,28000000,No/Rare Powercut,Semi-Furnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,N,2.0,3.0,14.444773175542407,0.6666666666666666
+437,11000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,7.0,9.0,0.8571428571428571
+438,18000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,11.0,11.0,0.6363636363636364
+439,18500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,14.0,14.0,9.0,1.0
+440,85000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,10.0,9.0,0.7
+441,17000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,16.0,17.0,11.0,0.9411764705882353
+442,21500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,0.0,6.0,2.0,0.0
+443,50000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,55.0,67.0,51.0,0.8208955223880597
+444,62000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,20.0,13.0,0.5
+445,35000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,5.0,7.0,0.8
+446,19000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,16.0,0.49096401229102654
+447,19800000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,16.0,12.0,0.625
+448,10000000,No/Rare Powercut,Furnished,4,Resale,Residential House,4,Water Availability 24 Hours Available,Y,2.0,2.0,18.0,1.0
+449,16100000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,15.0,20.0,2.0,0.75
+450,13000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,14.0,30.0,18.0,0.4666666666666667
+451,17500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,16.0,11.0,0.3125
+452,35549865,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,11.0,25.0,14.0,0.44
+453,29000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,28.0,0.49096401229102654
+454,22500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,12.0,19.0,0.4166666666666667
+455,22000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,26.0,16.0,0.19230769230769232
+456,36000000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,33.0,41.0,6.0,0.8048780487804879
+457,34500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,10.0,11.0,0.5
+458,34900000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,18.0,21.0,0.5555555555555556
+459,26500000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,5.0,15.0,12.0,0.3333333333333333
+460,18000000,No/Rare Powercut,Semi-Furnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,49.0,67.0,46.0,0.7313432835820896
+461,32700000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,7.0,12.0,0.14285714285714285
+462,39000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,4.0,18.0,0.0
+463,43000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,18.0,15.0,0.4444444444444444
+464,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,22.0,22.0,11.0,1.0
+465,2150000,No/Rare Powercut,Unfurnished,3,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,6.0,6.0,11.0,1.0
+466,38000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,17.0,22.0,9.0,0.7727272727272727
+467,27500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,8.0,10.0,0.125
+468,30000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,4.0,8.0,1.0
+469,9500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,24.0,0.49096401229102654
+470,12000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 2 Hours Available,N,12.0,12.0,10.0,1.0
+471,40000000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,12.0,24.0,28.0,0.5
+472,70000000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,30.0,56.0,21.0,0.5357142857142857
+473,50100000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,42.0,67.0,43.0,0.6268656716417911
+474,40000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,20.0,42.0,20.0,0.47619047619047616
+475,105000000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,48.0,78.0,27.0,0.6153846153846154
+476,20900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,22.0,20.0,0.45454545454545453
+477,72500000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,22.0,78.0,11.0,0.28205128205128205
+478,38550000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,22.0,0.49096401229102654
+479,23900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+480,135000000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,39.0,0.49096401229102654
+481,71000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,60.0,75.0,27.0,0.8
+482,43500000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+483,350000000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,5,Water Availability 24 Hours Available,Y,68.0,78.0,40.0,0.8717948717948718
+484,14000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,30.0,0.49096401229102654
+485,27600000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,26.0,32.0,36.0,0.8125
+486,76500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,12.0,30.0,19.0,0.4
+487,35900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,32.0,43.0,9.0,0.7441860465116279
+488,49600000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,16.0,40.0,15.0,0.4
+489,90000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,4.0,14.0,19.0,0.2857142857142857
+490,73000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,26.0,0.49096401229102654
+491,21500000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,31.0,68.0,40.0,0.45588235294117646
+492,44000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,40.0,16.0,0.4
+493,18100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.0,0.49096401229102654
+494,29500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,15.0,9.0,0.6666666666666666
+495,29000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,29.0,34.0,17.0,0.8529411764705882
+496,67500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,5.0,24.0,5.0,0.20833333333333334
+497,26800000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,4.0,20.0,21.0,0.2
+498,15555555,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,7.0,4.0,0.8571428571428571
+499,18500000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,3,Water Availability 24 Hours Available,Y,-1.0,22.0,10.0,-0.045454545454545456
+500,44500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 12 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+501,55000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,10.0,9.0,0.5
+502,46400000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,15.0,17.0,9.0,0.8823529411764706
+503,16500000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,4.0,4.0,11.0,1.0
+504,11100000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 1 Hour Available,Y,5.0,7.0,16.0,0.7142857142857143
+505,42500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,10.0,10.0,0.7
+506,43000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,42.0,21.0,0.23809523809523808
+507,17000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,6.0,5.0,0.5
+508,22000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,36.0,58.0,30.0,0.6206896551724138
+509,90000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,12.0,17.0,0.8333333333333334
+510,35000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,12.0,6.0,0.4166666666666667
+511,12500000,No/Rare Powercut,Unfurnished,3,Resale,Residential House,4,Water Availability 24 Hours Available,Y,0.0,2.0,14.444773175542407,0.0
+512,34000000,No/Rare Powercut,Semi-Furnished,6,Resale,Apartment,4,Water Availability 24 Hours Available,N,25.0,25.0,16.0,1.0
+513,29000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,4.0,5.0,0.25
+514,30000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,7.0,19.0,0.5714285714285714
+515,7500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,2,Water Availability 1 Hour Available,N,3.0,4.0,14.444773175542407,0.75
+516,21000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,11.0,21.0,16.0,0.5238095238095238
+517,65000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,10.0,12.0,14.0,0.8333333333333334
+518,130000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,7.0,9.0,0.8571428571428571
+519,120000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,3.0,17.0,6.0,0.17647058823529413
+520,90000000,No/Rare Powercut,Semi-Furnished,1,Resale,Builder Floor Apartment,1,Water Availability 1 Hour Available,N,0.0,6.0,14.444773175542407,0.0
+521,100000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,10.0,2.0,0.4
+522,2700000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,22.0,22.0,9.0,1.0
+523,15000000,No/Rare Powercut,Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,2.0,7.0,3.0,0.2857142857142857
+524,17600000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,20.0,43.0,0.5
+525,40000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,7.0,22.0,23.0,0.3181818181818182
+526,11000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,11.0,11.0,8.0,1.0
+527,125000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,37.0,47.0,6.0,0.7872340425531915
+528,85000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,4.0,38.0,16.0,0.10526315789473684
+529,260000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,23.0,21.0,0.6956521739130435
+530,18000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,9.0,11.0,0.2222222222222222
+531,7500000,No/Rare Powercut,Semi-Furnished,6,Resale,Villa,6,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+532,8100000,No/Rare Powercut,Furnished,2,Resale,Residential House,3,Water Availability 24 Hours Available,N,3.0,4.0,5.0,0.75
+533,23000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,35.0,27.0,0.2857142857142857
+534,19000000,No/Rare Powercut,Semi-Furnished,3,Resale,Residential House,3,Water Availability 24 Hours Available,N,5.0,6.0,9.0,0.8333333333333334
+535,7200000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,9.0,21.0,14.444773175542407,0.42857142857142855
+536,18500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,21.0,25.0,0.5238095238095238
+537,70000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,1.0,3.0,14.444773175542407,0.3333333333333333
+538,17900000,No/Rare Powercut,Unfurnished,3,Resale,Builder Floor Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,4.0,0.49096401229102654
+539,180000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,2.0,6.0,1.0
+540,2650000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,3.0,5.0,1.0
+541,8000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,7.0,5.0,0.8571428571428571
+542,16500000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,3,Water Availability 6 Hours Available,N,0.0,1.0,5.0,0.0
+543,39000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,3.0,13.0,20.0,0.23076923076923078
+544,15500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,27.0,23.0,0.4444444444444444
+545,14100000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,14.0,20.0,16.0,0.7
+546,60000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,15.0,17.0,0.5333333333333333
+547,18000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,16.0,47.0,38.0,0.3404255319148936
+548,4000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,7.0,14.0,0.42857142857142855
+549,38170000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,27.0,26.0,0.25925925925925924
+550,9800000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,1.0,13.0,14.444773175542407,0.07692307692307693
+551,6200000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,2.0,6.0,18.0,0.3333333333333333
+552,10800000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,16.0,23.0,32.0,0.6956521739130435
+553,9000000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,5,Water Availability 24 Hours Available,Y,57.0,70.0,23.0,0.8142857142857143
+554,7500000,No/Rare Powercut,Unfurnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,2.0,2.0,8.0,1.0
+555,4300000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,17.0,21.0,10.0,0.8095238095238095
+556,78800000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,11.0,18.0,19.0,0.6111111111111112
+557,51100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,24.0,53.0,20.0,0.4528301886792453
+558,32500000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,17.0,10.0,0.23529411764705882
+559,105000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,14.0,12.0,0.5
+560,48000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,10.0,3.0,0.9
+561,65000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,22.0,9.0,0.3181818181818182
+562,19500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,7.0,9.0,0.2857142857142857
+563,13500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,18.0,11.0,0.3333333333333333
+564,40000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,7.0,9.0,0.8571428571428571
+565,14500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,11.0,38.0,27.0,0.2894736842105263
+566,12000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,14.0,10.0,0.14285714285714285
+567,23000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,4.0,14.444773175542407,0.75
+568,15500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 12 Hours Available,N,3.0,14.0,14.444773175542407,0.21428571428571427
+569,17000000,No/Rare Powercut,Semi-Furnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,Y,2.0,2.0,18.0,1.0
+570,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,4.0,5.0,0.5
+571,32000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 2 Hours Available,N,2.0,7.0,14.444773175542407,0.2857142857142857
+572,11300000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,23.0,27.0,0.13043478260869565
+573,13580000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,17.0,30.0,14.444773175542407,0.5666666666666667
+574,10040000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,22.0,32.0,0.8181818181818182
+575,7500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,4,Water Availability 24 Hours Available,Y,5.0,12.0,11.0,0.4166666666666667
+576,10500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,12.0,21.0,25.0,0.5714285714285714
+577,46000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.0,13.0,21.0,0.6923076923076923
+578,11500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,11.0,16.0,13.0,0.6875
+579,18500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,30.0,46.0,27.0,0.6521739130434783
+580,50000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,8.0,6.0,0.125
+581,13800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,12.0,17.0,12.0,0.7058823529411765
+582,9350000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,15.0,20.0,22.0,0.75
+583,14100000,No/Rare Powercut,Furnished,8,Resale,Apartment,8,Water Availability 24 Hours Available,N,5.0,24.0,22.0,0.20833333333333334
+584,110000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,6.0,2.0,0.6666666666666666
+585,16500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,6.0,4.0,0.3333333333333333
+586,9200000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,8.0,9.0,0.625
+587,8800000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,1.0,17.0,6.0,0.058823529411764705
+588,10000000,No/Rare Powercut,Furnished,4,Resale,Residential House,3,Water Availability 24 Hours Available,N,0.0,2.0,14.444773175542407,0.0
+589,48000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,27.0,12.0,0.37037037037037035
+590,18500000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,17.0,20.0,14.0,0.85
+591,22000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,12.0,18.0,0.6666666666666666
+592,16500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,22.0,26.0,0.18181818181818182
+593,18000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,10.0,16.0,12.0,0.625
+594,9500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,14.0,17.0,6.0,0.8235294117647058
+595,8999000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,8.0,8.0,12.0,1.0
+596,15920000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,12.0,22.0,25.0,0.5454545454545454
+597,22000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,8.0,16.0,0.875
+598,30000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,7.0,0.49096401229102654
+599,8800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,12.0,0.49096401229102654
+600,18500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,17.0,22.0,7.0,0.7727272727272727
+601,15700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+602,20000000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,30.0,41.0,31.0,0.7317073170731707
+603,20500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,17.0,24.0,0.17647058823529413
+604,31500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,12.0,19.0,0.5833333333333334
+605,55100000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,6.0,13.0,0.3333333333333333
+606,16000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,7.0,14.444773175542407,0.14285714285714285
+607,7000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,30.0,16.0,0.3333333333333333
+608,60000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,21.0,24.0,0.09523809523809523
+609,3699000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,27.0,25.0,0.37037037037037035
+610,3200000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,24.0,67.0,15.0,0.3582089552238806
+611,15000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,15.0,42.0,14.444773175542407,0.35714285714285715
+612,6500000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,14.0,14.0,8.0,1.0
+613,19100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,27.0,0.49096401229102654
+614,22000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,21.0,7.0,0.47619047619047616
+615,17000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 12 Hours Available,N,1.0,14.0,14.444773175542407,0.07142857142857142
+616,56500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,22.0,25.0,0.3181818181818182
+617,8700000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,7.0,14.0,0.5714285714285714
+618,35000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,6.0,6.0,0.5
+619,6500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,7.0,4.0,0.5714285714285714
+620,60000000,Less Than 2 Hour Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,7.0,8.0,0.8571428571428571
+621,25000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,9.0,27.0,25.0,0.3333333333333333
+622,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,6.0,13.0,0.5
+623,20000000,No/Rare Powercut,Unfurnished,6,Resale,Apartment,4,Water Availability 24 Hours Available,Y,13.0,24.0,36.0,0.5416666666666666
+624,2400000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,25.0,12.0,0.16
+625,1500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,4.0,8.0,0.0
+626,70000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,12.0,20.0,14.444773175542407,0.6
+627,2800000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,N,6.0,6.0,10.0,1.0
+628,16000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.0,0.49096401229102654
+629,29000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,11.0,32.0,16.0,0.34375
+630,15700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,18.0,37.0,19.0,0.4864864864864865
+631,14950000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,7.0,6.0,0.2857142857142857
+632,4000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+633,16000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,0.0,4.0,14.444773175542407,0.0
+634,21450000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,1.0,19.0,1.0
+635,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 6 Hours Available,Y,1.0,4.0,6.0,0.25
+636,24000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 2 Hours Available,N,1.0,7.0,2.0,0.14285714285714285
+637,13500000,No/Rare Powercut,Furnished,6,Resale,Apartment,6,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,29.0,0.49096401229102654
+638,6000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,6.0,13.0,0.8333333333333334
+639,114000000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,14.0,52.0,28.0,0.2692307692307692
+640,56000000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,29.0,61.0,44.0,0.47540983606557374
+641,41700000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,22.0,46.0,22.0,0.4782608695652174
+642,37000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,39.0,16.0,0.41025641025641024
+643,38500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 1 Hour Available,Y,14.0,22.0,33.0,0.6363636363636364
+644,92500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,12.0,2.0,0.3333333333333333
+645,37150000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,6.0,7.0,6.0,0.8571428571428571
+646,68000000,No/Rare Powercut,Semi-Furnished,2,Resale,Residential House,1,Water Availability 24 Hours Available,Y,2.0,3.0,7.0,0.6666666666666666
+647,150000000,No/Rare Powercut,Semi-Furnished,2,New Property,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,5.0,6.0,48.0,0.8333333333333334
+648,31000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,36.0,43.0,41.0,0.8372093023255814
+649,12900000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,7.0,12.0,0.7142857142857143
+650,11500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,18.0,0.49096401229102654
+651,9800000,No/Rare Powercut,Furnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,7.0,14.0,0.14285714285714285
+652,18500000,Less Than 2 Hour Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,Y,9.40818363273453,19.1626746506986,2.0,0.49096401229102654
+653,115000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,27.0,36.0,18.0,0.75
+654,630000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,11.0,6.0,0.45454545454545453
+655,18500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,40.0,8.0,0.075
+656,15500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,2.0,8.0,1.0
+657,40000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,10.0,15.0,7.0,0.6666666666666666
+658,62000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,7.0,14.444773175542407,0.5714285714285714
+659,108000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,7.0,7.0,5.0,1.0
+660,6500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,0.0,7.0,14.444773175542407,0.0
+661,14000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,19.0,22.0,18.0,0.8636363636363636
+662,12500000,No/Rare Powercut,Semi-Furnished,2,Resale,Residential House,1,Water Availability 2 Hours Available,N,0.0,4.0,3.0,0.0
+663,28000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,16.0,7.0,0.4375
+664,13500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,3.0,11.0,14.444773175542407,0.2727272727272727
+665,7800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,7.0,2.0,0.8571428571428571
+666,8400000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,23.0,19.0,0.30434782608695654
+667,8500000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,20.0,12.0,0.4
+668,15000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,8.0,12.0,0.75
+669,15200000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,N,4.0,5.0,15.0,0.8
+670,7000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,15.0,16.0,0.6666666666666666
+671,8100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+672,14500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,8.0,7.0,0.0
+673,1800000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,20.0,24.0,2.0,0.8333333333333334
+674,24000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,5.0,4.0,0.8
+675,56000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,39.0,50.0,20.0,0.78
+676,40000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,38.0,61.0,29.0,0.6229508196721312
+677,42500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.0,22.0,24.0,0.4090909090909091
+678,105000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,13.0,21.0,12.0,0.6190476190476191
+679,12000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,11.0,19.0,19.0,0.5789473684210527
+680,18500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,N,5.0,7.0,21.0,0.7142857142857143
+681,91100000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,13.0,0.49096401229102654
+682,17100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,18.0,36.0,15.0,0.5
+683,11000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,6.0,12.0,11.0,0.5
+684,24500000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,18.0,32.0,20.0,0.5625
+685,10600000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,23.0,38.0,6.0,0.6052631578947368
+686,17900000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,20.0,21.0,0.9
+687,16300000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,35.0,37.0,35.0,0.9459459459459459
+688,15700000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,15.0,22.0,19.0,0.6818181818181818
+689,35500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,16.0,0.49096401229102654
+690,17000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,8.0,22.0,21.0,0.36363636363636365
+691,75000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,18.0,15.0,0.5555555555555556
+692,52000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,42.0,18.0,0.07142857142857142
+693,55000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,8.0,18.0,0.75
+694,34000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,17.0,5.0,0.9411764705882353
+695,26500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.0,10.0,16.0,0.9
+696,10800000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,17.0,22.0,21.0,0.7727272727272727
+697,8700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,15.0,5.0,0.13333333333333333
+698,6500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,4.0,5.0,0.25
+699,17500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,9.0,15.0,0.5555555555555556
+700,32500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,13.0,22.0,4.0,0.5909090909090909
+701,18500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,14.0,20.0,0.21428571428571427
+702,13000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,5.0,13.0,1.0
+703,27000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,11.0,10.0,0.8181818181818182
+704,27500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,4.0,14.444773175542407,0.5
+705,7500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,14.0,8.0,0.21428571428571427
+706,24514940,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,11.0,36.0,31.0,0.3055555555555556
+707,56000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,22.0,11.0,0.45454545454545453
+708,26500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,2.0,23.0,8.0,0.08695652173913043
+709,65000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,11.0,11.0,23.0,1.0
+710,240000000,No/Rare Powercut,Semi-Furnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,18.0,64.0,12.0,0.28125
+711,9300000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,8.0,10.0,0.125
+712,9000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,7.0,15.0,0.0
+713,70000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,18.0,18.0,12.0,1.0
+714,85000000,No/Rare Powercut,Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,21.0,28.0,19.0,0.75
+715,31000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,20.0,7.0,0.5
+716,30000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,10.0,17.0,0.5
+717,112000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,7.0,0.49096401229102654
+718,15500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,45.0,78.0,24.0,0.5769230769230769
+719,132000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,16.0,14.0,0.625
+720,32500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,3.0,7.0,14.444773175542407,0.42857142857142855
+721,80000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,11.0,21.0,0.09090909090909091
+722,13000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,8.0,13.0,0.25
+723,23000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,N,14.0,17.0,19.0,0.8235294117647058
+724,15000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,7.0,32.0,19.0,0.21875
+725,500000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,17.0,15.0,0.058823529411764705
+726,9500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,26.0,36.0,0.3076923076923077
+727,32500000,No/Rare Powercut,Semi-Furnished,5,Resale,Villa,5,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,9.0,0.49096401229102654
+728,5500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,2.0,9.0,1.0
+729,6500000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,11.0,15.0,14.0,0.7333333333333333
+730,8900000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,35.0,41.0,0.2857142857142857
+731,9500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,15.0,10.0,0.6666666666666666
+732,6592000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,20.0,47.0,13.0,0.425531914893617
+733,15000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,8.0,2.0,1.0
+734,14200000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,13.0,10.0,0.38461538461538464
+735,4100000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,13.0,11.0,0.9230769230769231
+736,41100000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,7.0,0.49096401229102654
+737,18000000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,13.0,15.0,25.0,0.8666666666666667
+738,25000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,19.0,15.0,0.5263157894736842
+739,12700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,7.0,16.0,0.2857142857142857
+740,15000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.0,13.0,2.0,0.6923076923076923
+741,22500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,6.0,4.0,0.16666666666666666
+742,17200000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,8.0,19.0,3.0,0.42105263157894735
+743,25000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 12 Hours Available,Y,6.0,6.0,6.0,1.0
+744,4700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,Y,9.40818363273453,19.1626746506986,3.0,0.49096401229102654
+745,6450000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,23.0,0.49096401229102654
+746,10000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,7.0,12.0,0.5714285714285714
+747,5850000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,3.0,14.444773175542407,0.3333333333333333
+748,5000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,7.0,2.0,0.14285714285714285
+749,2500000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,4.0,6.0,8.0,0.6666666666666666
+750,2450000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,0.0,2.0,4.0,0.0
+751,4000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,N,18.0,22.0,24.0,0.8181818181818182
+752,23000000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,0.0,5.0,9.0,0.0
+753,2700000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,6.0,6.0,0.5
+754,6000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 2 Hours Available,Y,5.0,7.0,2.0,0.7142857142857143
+755,7500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,6.0,17.0,7.0,0.35294117647058826
+756,1600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,11.0,16.0,14.444773175542407,0.6875
+757,14500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,2,Water Availability 24 Hours Available,Y,0.0,4.0,6.0,0.0
+758,3500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,17.0,5.0,0.29411764705882354
+759,5500000,No/Rare Powercut,Furnished,2,New Property,Residential House,2,Water Availability 24 Hours Available,Y,-2.0,10.0,24.0,-0.2
+760,5000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,-2.0,20.0,17.0,-0.1
+761,8500000,Less Than 2 Hour Powercut,Unfurnished,1,Resale,Builder Floor Apartment,1,Water Availability 1 Hour Available,N,2.0,4.0,14.444773175542407,0.5
+762,4500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 2 Hours Available,Y,4.0,7.0,3.0,0.5714285714285714
+763,7000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,4.0,14.444773175542407,0.5
+764,4400000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,7.0,7.0,8.0,1.0
+765,8500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,9.0,10.0,4.0,0.9
+766,15100000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,1,Water Availability 6 Hours Available,N,0.0,1.0,14.444773175542407,0.0
+767,37000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,2.0,45.0,21.0,0.044444444444444446
+768,35000000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,N,5.0,22.0,7.0,0.22727272727272727
+769,29000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,29.0,30.0,0.27586206896551724
+770,18500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,14.0,0.49096401229102654
+771,9500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,14.0,9.0,0.07142857142857142
+772,3200000,No/Rare Powercut,Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,2.0,3.0,3.0,0.6666666666666666
+773,2650000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,0.0,3.0,5.0,0.0
+774,6000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 2 Hours Available,Y,4.0,7.0,7.0,0.5714285714285714
+775,10500000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+776,15000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,7.0,11.0,0.42857142857142855
+777,62500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,7.0,11.0,1.0
+778,20000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,3.0,2.0,0.6666666666666666
+779,16500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,17.0,9.0,0.29411764705882354
+780,5100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,8.0,10.0,19.0,0.8
+781,17800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,13.0,18.0,0.07692307692307693
+782,6700000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.0,9.0,6.0,1.0
+783,9100000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,17.0,40.0,16.0,0.425
+784,17500000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,7.0,13.0,0.5714285714285714
+785,14000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,20.0,23.0,0.5
+786,13200000,No/Rare Powercut,Semi-Furnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,Y,3.0,4.0,2.0,0.75
+787,6500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,N,1.0,11.0,10.0,0.09090909090909091
+788,23000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,4.0,6.0,1.0
+789,10000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,3.0,10.0,14.444773175542407,0.3
+790,37700000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,3.0,8.0,12.0,0.375
+791,14700000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,23.0,36.0,0.6956521739130435
+792,13300000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,5.0,9.0,11.0,0.5555555555555556
+793,15400000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,12.0,14.0,14.444773175542407,0.8571428571428571
+794,33500000,Less Than 2 Hour Powercut,Furnished,2,Resale,Apartment,2,Water Availability 2 Hours Available,Y,3.0,3.0,6.0,1.0
+795,3000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,9.0,14.0,0.7777777777777778
+796,10000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,3.0,5.0,6.0,0.6
+797,3300000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.0,11.0,11.0,0.8181818181818182
+798,9500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,4.0,0.7142857142857143
+799,7500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,7.0,7.0,3.0,1.0
+800,16000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,20.0,36.0,4.0,0.5555555555555556
+801,24000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,62.0,67.0,28.0,0.9253731343283582
+802,8260000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,1.0,47.0,27.0,0.02127659574468085
+803,14900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,18.0,15.0,0.5555555555555556
+804,12500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,22.0,40.0,29.0,0.55
+805,13200000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,15.0,36.0,21.0,0.4166666666666667
+806,19100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,23.0,29.0,0.43478260869565216
+807,37000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,30.0,35.0,33.0,0.8571428571428571
+808,9900000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,59.0,91.0,25.0,0.6483516483516484
+809,22880000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,23.0,7.0,0.6521739130434783
+810,11000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,22.0,16.0,0.3181818181818182
+811,11000000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,5,Water Availability 24 Hours Available,Y,43.0,65.0,20.0,0.6615384615384615
+812,20300000,No/Rare Powercut,Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+813,19800000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,5,Water Availability 24 Hours Available,Y,35.0,65.0,38.0,0.5384615384615384
+814,20000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,8.0,23.0,0.0
+815,34000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,12.0,6.0,0.3333333333333333
+816,14200000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,-1.0,7.0,2.0,-0.14285714285714285
+817,25000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,7.0,5.0,0.42857142857142855
+818,30000000,No/Rare Powercut,Furnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,Y,1.0,2.0,15.0,0.5
+819,17000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,23.0,31.0,5.0,0.7419354838709677
+820,13100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.0,16.0,5.0,0.5625
+821,49000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,11.0,39.0,16.0,0.28205128205128205
+822,19999999,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,21.0,32.0,4.0,0.65625
+823,10000000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,13.0,17.0,34.0,0.7647058823529411
+824,8500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,14.0,23.0,12.0,0.6086956521739131
+825,20800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,7.0,13.0,0.2857142857142857
+826,9000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 2 Hours Available,Y,2.0,6.0,6.0,0.3333333333333333
+827,10400000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 2 Hours Available,Y,1.0,4.0,14.444773175542407,0.25
+828,64000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,43.0,22.0,0.23255813953488372
+829,161000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,5.0,22.0,12.0,0.22727272727272727
+830,57200000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,13.0,22.0,14.0,0.5909090909090909
+831,27500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,2.0,0.49096401229102654
+832,31500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,23.0,0.49096401229102654
+833,24400000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,15.0,42.0,29.0,0.35714285714285715
+834,140000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,23.0,14.0,0.6521739130434783
+835,85000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.0,13.0,18.0,0.6923076923076923
+836,150000000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,21.0,38.0,17.0,0.5526315789473685
+837,105000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,27.0,20.0,0.18518518518518517
+838,210000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,3.0,13.0,15.0,0.23076923076923078
+839,21000000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,13.0,29.0,33.0,0.4482758620689655
+840,600000000,No/Rare Powercut,Furnished,4,Resale,Residential House,6,Water Availability 24 Hours Available,Y,0.0,1.0,9.0,0.0
+841,22500000,2 To 4 Hours Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 6 Hours Available,N,2.0,4.0,10.0,0.5
+842,145000000,No/Rare Powercut,Semi-Furnished,6,New Property,Apartment,5,Water Availability 24 Hours Available,Y,11.0,14.0,14.0,0.7857142857142857
+843,13000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,3.0,15.0,11.0,0.2
+844,16000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,7.0,13.0,0.14285714285714285
+845,12000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,4.0,0.49096401229102654
+846,12000000,No/Rare Powercut,Furnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,Y,3.0,23.0,6.0,0.13043478260869565
+847,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,2.0,4.0,1.0
+848,24200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,7.0,7.0,6.0,1.0
+849,28000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,7.0,14.444773175542407,0.2857142857142857
+850,12700000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,23.0,23.0,0.5217391304347826
+851,20100000,No/Rare Powercut,Furnished,3,Resale,Residential House,3,Water Availability 24 Hours Available,Y,5.0,7.0,7.0,0.7142857142857143
+852,22500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,4.0,4.0,10.0,1.0
+853,25000000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,7.0,0.49096401229102654
+854,16000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,15.0,8.0,0.3333333333333333
+855,3300000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,4.0,22.0,7.0,0.18181818181818182
+856,8500000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,N,0.0,2.0,14.444773175542407,0.0
+857,15000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,2.0,7.0,6.0,0.2857142857142857
+858,6700000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,0.0,5.0,14.444773175542407,0.0
+859,5200000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,7.0,4.0,1.0
+860,6200000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,1.0,40.0,21.0,0.025
+861,27450000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,13.0,4.0,0.7692307692307693
+862,61000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+863,48000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,15.0,23.0,10.0,0.6521739130434783
+864,5200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+865,32500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,4.0,14.444773175542407,0.25
+866,6600000,No/Rare Powercut,Unfurnished,2,Resale,Builder Floor Apartment,2,Water Availability 1 Hour Available,N,0.0,4.0,10.0,0.0
+867,18000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,12.0,25.0,10.0,0.48
+868,7500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,29.0,0.49096401229102654
+869,5900000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,1.0,10.0,32.0,0.1
+870,5000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,10.0,9.0,0.5
+871,6000000,No/Rare Powercut,Furnished,3,Resale,Residential House,3,Water Availability 24 Hours Available,N,2.0,6.0,15.0,0.3333333333333333
+872,2500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,13.0,12.0,0.15384615384615385
+873,50000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,16.0,8.0,0.25
+874,60000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,7.0,9.0,0.7142857142857143
+875,21500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,11.0,11.0,0.45454545454545453
+876,600000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,6.0,3.0,0.5
+877,20000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,13.0,19.0,0.6153846153846154
+878,22500000,No/Rare Powercut,Semi-Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,N,4.0,5.0,7.0,0.8
+879,2500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,7.0,39.0,15.0,0.1794871794871795
+880,12500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,14.0,18.0,19.0,0.7777777777777778
+881,26500000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,15.0,40.0,7.0,0.375
+882,26000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,30.0,42.0,22.0,0.7142857142857143
+883,28500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,7.0,0.7142857142857143
+884,9800000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,21.0,44.0,15.0,0.4772727272727273
+885,16000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,22.0,43.0,27.0,0.5116279069767442
+886,19900000,No/Rare Powercut,Furnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,N,1.0,6.0,10.0,0.16666666666666666
+887,21200000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,1.0,7.0,21.0,0.14285714285714285
+888,9900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,8.0,12.0,0.75
+889,31500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,7.0,9.0,0.7142857142857143
+890,17000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,40.0,33.0,0.4
+891,9900000,No/Rare Powercut,Semi-Furnished,1,New Property,Apartment,3,Water Availability 24 Hours Available,Y,14.0,22.0,8.0,0.6363636363636364
+892,14500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,48.0,62.0,29.0,0.7741935483870968
+893,15900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,24.0,0.49096401229102654
+894,21500000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 2 Hours Available,N,9.0,9.0,12.0,1.0
+895,30000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,13.0,0.49096401229102654
+896,14000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,17.0,27.0,0.5882352941176471
+897,25000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,17.0,13.0,0.5882352941176471
+898,9500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+899,8500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,11.0,7.0,0.45454545454545453
+900,17500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,1.0,10.0,13.0,0.1
+901,7745000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,4.0,25.0,18.0,0.16
+902,10500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,4,Water Availability 24 Hours Available,N,1.0,13.0,13.0,0.07692307692307693
+903,15000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,13.0,23.0,6.0,0.5652173913043478
+904,18500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 1 Hour Available,N,14.0,14.0,12.0,1.0
+905,15000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,N,3.0,5.0,2.0,0.6
+906,3600000,No/Rare Powercut,Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,5.0,7.0,0.2
+907,87500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,5.0,23.0,33.0,0.21739130434782608
+908,2600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.0,21.0,4.0,0.42857142857142855
+909,21000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,8.0,23.0,25.0,0.34782608695652173
+910,5000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,0.0,4.0,14.444773175542407,0.0
+911,31500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,18.0,45.0,42.0,0.4
+912,22300000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,3.0,29.0,30.0,0.10344827586206896
+913,20000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,14.0,22.0,13.0,0.6363636363636364
+914,21000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,5.0,0.7142857142857143
+915,19500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.0,18.0,12.0,0.5
+916,33000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,34.0,0.49096401229102654
+917,22000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,48.0,17.0,0.22916666666666666
+918,29000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,6.0,14.444773175542407,1.0
+919,11850000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,8.0,16.0,13.0,0.5
+920,32000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,21.0,9.0,0.23809523809523808
+921,10100000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,15.0,45.0,22.0,0.3333333333333333
+922,10000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,4.0,2.0,0.25
+923,18500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+924,16500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,15.0,20.0,0.6666666666666666
+925,23000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+926,13100000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,16.0,9.0,0.0625
+927,489000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,13.0,3.0,0.38461538461538464
+928,22000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,9.0,0.49096401229102654
+929,14000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 1 Hour Available,Y,2.0,5.0,14.444773175542407,0.4
+930,22500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,10.0,0.49096401229102654
+931,26000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,7.0,13.0,10.0,0.5384615384615384
+932,7400000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,13.0,44.0,27.0,0.29545454545454547
+933,8700000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,3.0,12.0,0.6666666666666666
+934,11000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,8.0,17.0,9.0,0.47058823529411764
+935,6950000,No/Rare Powercut,Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,N,1.0,11.0,9.0,0.09090909090909091
+936,24500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,25.0,27.0,0.28
+937,22500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,24.0,30.0,31.0,0.8
+938,16500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,13.0,7.0,0.8461538461538461
+939,12500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,11.0,13.0,0.18181818181818182
+940,11200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,35.0,78.0,42.0,0.44871794871794873
+941,26000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,14.0,14.0,0.5
+942,2900000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,14.0,5.0,0.2857142857142857
+943,16000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,3.0,3.0,0.6666666666666666
+944,28500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 2 Hours Available,N,3.0,7.0,20.0,0.42857142857142855
+945,20000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 2 Hours Available,N,3.0,4.0,5.0,0.75
+946,12800000,No/Rare Powercut,Furnished,4,Resale,Residential House,3,Water Availability 24 Hours Available,N,3.0,7.0,17.0,0.42857142857142855
+947,15800000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,20.0,31.0,14.0,0.6451612903225806
+948,28500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,20.0,40.0,22.0,0.5
+949,3350000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,21.0,13.0,0.19047619047619047
+950,30000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,1.0,7.0,8.0,0.14285714285714285
+951,24000000,No/Rare Powercut,Semi-Furnished,4,Resale,Residential House,3,Water Availability 24 Hours Available,N,0.0,1.0,14.444773175542407,0.0
+952,7857000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,39.0,13.0,0.2564102564102564
+953,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,15.0,35.0,8.0,0.42857142857142855
+954,17000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,26.0,50.0,52.0,0.52
+955,19100000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,10.0,12.0,22.0,0.8333333333333334
+956,60500000,No/Rare Powercut,Semi-Furnished,3,Resale,Residential House,4,Water Availability 24 Hours Available,N,0.0,2.0,14.444773175542407,0.0
+957,8300000,No/Rare Powercut,Semi-Furnished,4,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,19.0,0.49096401229102654
+958,9900000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,6.0,8.0,10.0,0.75
+959,65100000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,4.0,7.0,0.5
+960,17500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,54.0,5.0,0.07407407407407407
+961,56775000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,21.0,68.0,30.0,0.3088235294117647
+962,21000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,20.0,25.0,12.0,0.8
+963,16000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,23.0,11.0,0.43478260869565216
+964,12800000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,6.0,6.0,2.0,1.0
+965,8500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,4.0,5.0,7.0,0.8
+966,17800000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,11.0,11.0,9.0,1.0
+967,10000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.0,22.0,11.0,0.4090909090909091
+968,13500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,27.0,38.0,14.0,0.7105263157894737
+969,14000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,22.0,21.0,0.45454545454545453
+970,13800000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,35.0,67.0,5.0,0.5223880597014925
+971,9900000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,11.0,0.49096401229102654
+972,17200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,6.0,0.49096401229102654
+973,14000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,7.0,14.0,10.0,0.5
+974,8000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,N,14.0,15.0,18.0,0.9333333333333333
+975,6000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,17.0,24.0,4.0,0.7083333333333334
+976,10700000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,8.0,35.0,27.0,0.22857142857142856
+977,170000000,No/Rare Powercut,Semi-Furnished,5,Resale,Apartment,4,Water Availability 24 Hours Available,Y,30.0,48.0,6.0,0.625
+978,35400000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,3,Water Availability 24 Hours Available,Y,19.0,29.0,20.0,0.6551724137931034
+979,110000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,21.0,26.0,9.0,0.8076923076923077
+980,115000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,6.0,12.0,8.0,0.5
+981,40000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,18.0,30.0,23.0,0.6
+982,130000000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,12.0,20.0,7.0,0.6
+983,400000000,No/Rare Powercut,Semi-Furnished,2,Resale,Residential House,2,Water Availability 24 Hours Available,N,2.0,3.0,5.0,0.6666666666666666
+984,19000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,5.0,7.0,7.0,0.7142857142857143
+985,31000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,8.0,6.0,0.25
+986,29000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,1.0,2.0,14.444773175542407,0.5
+987,19000000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,2.0,10.0,7.0,0.2
+988,55000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,4,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,6.0,0.49096401229102654
+989,105000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,11.0,0.49096401229102654
+990,35000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,5.0,7.0,8.0,0.7142857142857143
+991,3650000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,14.0,22.0,17.0,0.6363636363636364
+992,18900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,16.0,20.0,19.0,0.8
+993,25600000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,8.0,30.0,27.0,0.26666666666666666
+994,18700000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,11.0,26.0,13.0,0.4230769230769231
+995,7500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,10.0,16.0,17.0,0.625
+996,58500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,7.0,18.0,0.14285714285714285
+997,22900000,No/Rare Powercut,Furnished,3,Resale,Apartment,4,Water Availability 24 Hours Available,Y,3.0,3.0,9.0,1.0
+998,25900000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,16.0,20.0,16.0,0.8
+999,660000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,8.0,12.0,10.0,0.6666666666666666
+1000,500000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 6 Hours Available,N,5.0,23.0,5.0,0.21739130434782608
+1001,4400000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,1.0,3.0,7.0,0.3333333333333333
+1002,11500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 6 Hours Available,N,1.0,7.0,14.444773175542407,0.14285714285714285
+1003,10500000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,Y,1.0,1.0,7.0,1.0
+1004,8000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,22.0,45.0,33.0,0.4888888888888889
+1005,11000000,No/Rare Powercut,Semi-Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,9.0,30.0,22.0,0.3
+1006,16000000,No/Rare Powercut,Semi-Furnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,N,11.0,41.0,58.0,0.2682926829268293
+1007,105000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,5.0,27.0,15.0,0.18518518518518517
+1008,103000000,No/Rare Powercut,Unfurnished,5,Resale,Apartment,6,Water Availability 24 Hours Available,Y,11.0,12.0,23.0,0.9166666666666666
+1009,15000000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,2.0,15.0,3.0,0.13333333333333333
+1010,35000000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,12.0,15.0,10.0,0.8
+1011,12000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+1012,9900000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,6.0,17.0,7.0,0.35294117647058826
+1013,11300000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,N,0.0,4.0,5.0,0.0
+1014,31000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,11.0,18.0,9.0,0.6111111111111112
+1015,19100000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,23.0,45.0,17.0,0.5111111111111111
+1016,7000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,3,Water Availability 24 Hours Available,Y,43.0,43.0,20.0,1.0
+1017,26500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,7.0,21.0,19.0,0.3333333333333333
+1018,62500000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,Y,4.0,7.0,7.0,0.5714285714285714
+1019,11600000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,4.0,6.0,12.0,0.6666666666666666
+1020,17490000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+1021,23400000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,22.0,21.0,0.45454545454545453
+1022,15900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,15.0,15.0,5.0,1.0
+1023,17000000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,5,Water Availability 24 Hours Available,Y,41.0,47.0,18.0,0.8723404255319149
+1024,15900000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,18.0,21.0,52.0,0.8571428571428571
+1025,16400088,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,8.0,20.0,21.0,0.4
+1026,22000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+1027,8600000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,7.0,21.0,20.0,0.3333333333333333
+1028,16000000,Less Than 2 Hour Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,-2.0,50.0,17.0,-0.04
+1029,35000000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,12.0,15.0,14.0,0.8
+1030,20000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,11.0,20.0,7.0,0.55
+1031,45000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,8.0,14.0,1.0
+1032,35000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,22.0,5.0,0.3181818181818182
+1033,61218107,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,7.0,9.0,14.0,0.7777777777777778
+1034,48000000,No/Rare Powercut,Unfurnished,5,New Property,Apartment,4,Water Availability 24 Hours Available,Y,56.0,90.0,21.0,0.6222222222222222
+1035,7500000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,19.0,48.0,20.0,0.3958333333333333
+1036,27700000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,-2.0,23.0,22.0,-0.08695652173913043
+1037,58000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,19.0,0.49096401229102654
+1038,42500000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,2.0,7.0,9.0,0.2857142857142857
+1039,42100000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,2,Water Availability 24 Hours Available,N,6.0,9.0,4.0,0.6666666666666666
+1040,30000000,No/Rare Powercut,Semi-Furnished,3,New Property,Apartment,2,Water Availability 24 Hours Available,Y,8.0,22.0,4.0,0.36363636363636365
+1041,23500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,24.0,29.0,31.0,0.8275862068965517
+1042,48500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,12.0,28.0,25.0,0.42857142857142855
+1043,17500000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,20.0,18.0,0.6
+1044,11500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,15.0,19.0,0.5333333333333333
+1045,8900000,No/Rare Powercut,Unfurnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,4.0,6.0,9.0,0.6666666666666666
+1046,2400000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,1.0,22.0,11.0,0.045454545454545456
+1047,7400000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,30.0,34.0,3.0,0.8823529411764706
+1048,9000000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,0.0,4.0,2.0,0.0
+1049,11000000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,9.0,10.0,2.0,0.9
+1050,9900000,No/Rare Powercut,Unfurnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,Y,8.0,13.0,9.0,0.6153846153846154
+1051,1400000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,21.0,22.0,12.0,0.9545454545454546
+1052,5960000,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,14.444773175542407,0.49096401229102654
+1053,20500000,No/Rare Powercut,Unfurnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,30.0,35.0,29.0,0.8571428571428571
+1054,14900000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,20.0,7.0,0.5
+1055,6956000,No/Rare Powercut,Unfurnished,4,New Property,Apartment,4,Water Availability 24 Hours Available,Y,30.0,48.0,33.0,0.625
+1056,11300000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,8.0,18.0,0.625
+1057,16000000,No/Rare Powercut,Unfurnished,4,Resale,Villa,4,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,6.0,0.49096401229102654
+1058,18500000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,15.0,18.0,0.3333333333333333
+1059,36000000,No/Rare Powercut,Unfurnished,2,Resale,Builder Floor Apartment,1,Water Availability 24 Hours Available,N,1.0,6.0,5.0,0.16666666666666666
+1060,14000000,No/Rare Powercut,Unfurnished,1,Resale,Residential House,1,Water Availability 24 Hours Available,Y,0.0,1.0,4.0,0.0
+1061,8600000,No/Rare Powercut,Furnished,2,Resale,Apartment,1,Water Availability 24 Hours Available,N,13.0,13.0,15.0,1.0
+1062,13000000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,28.0,0.49096401229102654
+1063,81100000,No/Rare Powercut,Furnished,3,New Property,Apartment,3,Water Availability 24 Hours Available,Y,5.0,14.0,8.0,0.35714285714285715
+1064,17000000,No/Rare Powercut,Semi-Furnished,2,Resale,Builder Floor Apartment,2,Water Availability 24 Hours Available,Y,2.0,3.0,9.0,0.6666666666666666
+1065,12100000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,14.0,14.0,25.0,1.0
+1066,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,7.0,19.0,16.0,0.3684210526315789
+1067,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,15.0,40.0,19.0,0.375
+1068,4100000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,7.0,3.0,0.42857142857142855
+1069,11200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,8.0,8.0,21.0,1.0
+1070,12000000,No/Rare Powercut,Semi-Furnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,N,3.0,3.0,14.444773175542407,1.0
+1071,16500000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,24.0,41.0,25.0,0.5853658536585366
+1072,26000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,15.0,34.0,20.0,0.4411764705882353
+1073,35000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,0.0,59.0,48.0,0.0
+1074,27500000,No/Rare Powercut,Furnished,4,Resale,Apartment,4,Water Availability 24 Hours Available,Y,4.0,30.0,12.0,0.13333333333333333
+1075,37500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,6.0,22.0,5.0,0.2727272727272727
+1076,7700000,No/Rare Powercut,Unfurnished,1,Resale,Apartment,1,Water Availability 24 Hours Available,Y,9.40818363273453,19.1626746506986,5.0,0.49096401229102654
+1077,3500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,16.0,23.0,14.444773175542407,0.6956521739130435
+1078,15000000,No/Rare Powercut,Unfurnished,2,New Property,Apartment,1,Water Availability 24 Hours Available,Y,17.0,23.0,11.0,0.7391304347826086
+1079,30000000,No/Rare Powercut,Semi-Furnished,6,Resale,Villa,6,Water Availability 24 Hours Available,N,9.40818363273453,19.1626746506986,8.0,0.49096401229102654
+1080,10495800,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,10.0,47.0,15.0,0.2127659574468085
+1081,10260000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,30.0,38.0,5.0,0.7894736842105263
+1082,7800000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,2.0,7.0,11.0,0.2857142857142857
+1083,7500000,No/Rare Powercut,Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,12.0,14.0,19.0,0.8571428571428571
+1084,16200000,No/Rare Powercut,Semi-Furnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,N,5.0,11.0,5.0,0.45454545454545453
+1085,120000000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,6.0,54.0,21.0,0.1111111111111111
+1086,140000000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,Y,0.0,4.0,14.0,0.0
+1087,14200000,No/Rare Powercut,Semi-Furnished,2,New Property,Apartment,2,Water Availability 24 Hours Available,Y,12.0,23.0,11.0,0.5217391304347826
+1088,5992500,No/Rare Powercut,Unfurnished,1,New Property,Apartment,1,Water Availability 24 Hours Available,Y,10.0,22.0,14.0,0.45454545454545453
+1089,25500000,No/Rare Powercut,Furnished,3,Resale,Apartment,3,Water Availability 24 Hours Available,N,6.0,7.0,9.0,0.8571428571428571
+1090,62500000,No/Rare Powercut,Unfurnished,2,Resale,Apartment,2,Water Availability 24 Hours Available,Y,5.0,7.0,6.0,0.7142857142857143
+1091,12100000,No/Rare Powercut,Furnished,2,Resale,Apartment,3,Water Availability 24 Hours Available,N,7.0,39.0,16.0,0.1794871794871795
