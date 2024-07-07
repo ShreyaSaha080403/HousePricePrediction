@@ -25,6 +25,11 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/ShreyaSaha080403/HousePricePrediction.git
    cd HousePricePrediction
+1. **Create and activate a virtual environment:**
+   ```bash
+   conda env create -f environment.yml
+   conda activate house-price-prediction
+   
 ## Data
 
 ### Data Scraping
